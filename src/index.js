@@ -28,7 +28,7 @@ function createCard (repo) {
             'X',
             {
                     name:'click',
-                    func: function (e) {
+                    func: function () {
                             document.getElementById(repo.id).remove()
                     }
             }
