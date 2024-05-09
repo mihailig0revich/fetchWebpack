@@ -1,2 +1,9 @@
 /node_modules
-/build
+/config
+/public
+/src
+babel.config.json
+package-lock.json
+package.json
+postcss.config.js
+webpack.config.js
